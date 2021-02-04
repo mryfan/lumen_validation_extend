@@ -1,0 +1,18 @@
+{
+    "name": "fy97/lumen_validation_extend",
+    "description": "fy97/validation 的扩展",
+    "keywords": [
+        "Validation",
+        "Validate",
+        "Laravel Validation"
+    ],
+    "authors": [
+        {
+            "name": "Fy",
+            "email": "mryfan@163.com"
+        }
+    ],
+    "require": {
+        "fy97/validation": "8.25.0"
+    }
+}
