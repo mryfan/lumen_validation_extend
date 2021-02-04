@@ -12,6 +12,7 @@
             "email": "mryfan@163.com"
         }
     ],
+    "license": "MIT",
     "require": {
         "fy97/validation": "8.25.0"
     }
